@@ -12,6 +12,8 @@ namespace Nelinurk
         {
             Nelnurk sqr1 = new Nelnurk(5, 5);
             sqr1.svoistva();
+            Nelnurk sqr2 = new Nelnurk(5, 15);
+            sqr2.svoistva();
         }
     }
 }
